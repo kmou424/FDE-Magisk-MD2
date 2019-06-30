@@ -1,1 +1,22 @@
-
+{
+  "app": {
+    "version": "7.3.2",
+    "versionCode": "224",
+    "link": "https://raw.githubusercontent.com/DiseR-LawnX/FDE-Magisk-MD2/master/Manager/Magisk-MD2-7.3.2-224.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
+  },
+  "magisk": {
+    "version": "19.3",
+    "versionCode": "19300",
+    "link": "https://github.com/DiseR-LawnX/FDE-Magisk-MD2/releases/download/19.3/FDE-Magisk-v19.3-MD2-GearMagic.zip",
+    "note": "https://raw.githubusercontent.com/DiseR-LawnX/FDE-Magisk-MD2/master/README.md",
+    "md5": "90a9415423326030c5f8cb030bf2440d"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "12",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/snet.apk"
+  }
+}
