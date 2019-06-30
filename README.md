@@ -8,6 +8,7 @@ Special Version Magisk For GearMagic Rom
 3.自动解锁System分区(感谢由wzsx150提供的脚本)
 <br>
 <br>
+
 ### Changelog:
 <p>
   ###2019-06-29###
