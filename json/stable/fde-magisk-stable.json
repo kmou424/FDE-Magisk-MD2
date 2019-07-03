@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "7.3.2",
-    "versionCode": "245",
+    "versionCode": "224",
     "link": "https://raw.githubusercontent.com/DiseR-LawnX/FDE-Magisk-MD2/master/Manager/Magisk-MD2-7.3.2-244.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
   },
